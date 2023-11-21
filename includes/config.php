@@ -3,7 +3,7 @@
 define('DB_HOST','adaptable-prod.database.windows.net');
 define('DB_USER','blooddonation-main-db-0ef545b93d3b06770');
 define('DB_PASS','w5WPqaVsX7zTUKxU8qagutadxMQDZp');
-define('DB_NAME','/blooddonation-main-db-0ef545b93d3b06770');
+define('DB_NAME','/mssql://blooddonation-main-db-0ef545b93d3b06770:**********@adaptable-prod.database.windows.net:1433/blooddonation-main-db-0ef545b93d3b06770');
 // Establish database connection.
 try
 {
